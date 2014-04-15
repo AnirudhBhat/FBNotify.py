@@ -2,7 +2,7 @@ import requests
 import json
 import subprocess
 import time
-ACCESS_TOKEN = "CAADbJ2R6rpEBAKUP0NUVO5TrSQWk6B1pth9wxRQRZArTcvYvTAFHvw1AFh02qSAN8HZBGtVauDvQZAg61BpGzC3zcvYAkZAxOlyKsY4evM8t5LQ0ZAoYMfJpDSLMZBy4Qig9cP5JYeqQeLvMnhZAzgW4cccnZBr84KPMjrvaBOgPO90Gs0SkNYg1EIMdXnQDnQoZD"
+ACCESS_TOKEN = "ENTER YOUR ACCESS TOKEN"
 friends_online = []
 friends_online_old = [] 
 counter = 0
