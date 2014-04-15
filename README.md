@@ -3,5 +3,5 @@ FBNotify.py
 
 Notifies you whenever your friends in Facebook comes online.
 
+![Image Screenshot](/screenshots/vivekbhat.png)
 
-[Image](http://i.imgur.com/Wp76XMu.png?raw=true)
